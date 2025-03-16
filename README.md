@@ -1,4 +1,4 @@
-## I'm a CS student at CSUSM. I'm interested in AI and Machine Learning, and I want to learn more about Transformers and LLM's.
+## I'm a CS student at CSUSM. I'm interested in AI and Machine Learning.
 
 <!--
 **Hawkinski2000/Hawkinski2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
