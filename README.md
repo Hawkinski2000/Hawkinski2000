@@ -1,4 +1,4 @@
-## I'm a CS student at CSUSM. I'm interested in AI and Machine Learning.
+## I'm a recent Computer Science graduate from CSUSM. I'm interested in AI and Machine Learning.
 
 <!--
 **Hawkinski2000/Hawkinski2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
