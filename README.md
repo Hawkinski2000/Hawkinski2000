@@ -1,4 +1,4 @@
-## I'm a recent Computer Science graduate from CSUSM. I'm passionate about AI and Machine Learning.
+## Recent Computer Science graduate from CSUSM. Experimenting with AI agents.
 
 <!--
 **Hawkinski2000/Hawkinski2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
