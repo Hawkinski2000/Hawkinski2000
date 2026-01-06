@@ -1,4 +1,9 @@
-## Recent Computer Science graduate from CSUSM. Experimenting with AI agents.
+## Recent Computer Science graduate from CSUSM. Passionate about AI/ML.
+
+**Languages:** Python, SQL (Postgres), JavaScript/TypeScript, C/C++, HTML/CSS  
+**Frameworks:** PyTorch, FastAPI, React, pytest, Alembic  
+**Developer Tools:** Git, Docker, Amazon Web Services, GitHub Actions  
+**Libraries:** SQLAlchemy, pandas, NumPy, Matplotlib  
 
 <!--
 **Hawkinski2000/Hawkinski2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
