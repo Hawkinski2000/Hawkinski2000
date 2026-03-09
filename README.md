@@ -1,6 +1,7 @@
 ## Recent Computer Science graduate from CSUSM. Passionate about AI/ML.
 
-**Languages:** Python, SQL (Postgres), JavaScript/TypeScript, C/C++, HTML/CSS  
+**Languages:** Python, SQL, JavaScript/TypeScript, C/C++, HTML/CSS  
+**Databases:** PostgreSQL, Redis  
 **Frameworks:** PyTorch, FastAPI, React, pytest, Alembic  
 **Developer Tools:** Git, Docker, Amazon Web Services, GitHub Actions  
 **Libraries:** SQLAlchemy, pandas, NumPy, Matplotlib  
