@@ -1,4 +1,4 @@
-## Recent Computer Science graduate from CSUSM. Passionate about AI/ML.
+## Thinking about neural nets and emergent behavior.
 
 **Languages:** Python, SQL, JavaScript/TypeScript, C/C++, HTML/CSS  
 **Databases:** PostgreSQL, Redis  
